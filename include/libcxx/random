@@ -1635,7 +1635,7 @@ class piecewise_linear_distribution
 #include <__config>
 #include <cstddef>
 #include <cstdint>
-#include <cmath> // since we have cmath at the NuttX cxx directory make sure to include the libcxx cmath
+#include <cmath>
 #include <type_traits>
 #include <initializer_list>
 #include <limits>
